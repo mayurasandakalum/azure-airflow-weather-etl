@@ -31,7 +31,7 @@ By combining Apache Airflow, Python, and Azure services, this project exemplifie
 ### Installation
 1. **Clone the repository**:
   ```sh
-  git clone https://github.com/<username>/<repo-name>.git
+  https://github.com/mayurasandakalum/azure-airflow-weather-etl.git
   ```
 2. **Navigate to the project directory**:
   ```sh
