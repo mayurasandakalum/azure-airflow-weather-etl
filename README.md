@@ -35,7 +35,7 @@ By combining Apache Airflow, Python, and Azure services, this project exemplifie
   ```
 2. **Navigate to the project directory**:
   ```sh
-  cd your-repo-name
+  cd azure-airflow-weather-etl
   ```
 3. **Install the required Python packages**:
   ```sh
