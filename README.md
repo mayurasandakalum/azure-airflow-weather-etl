@@ -3,6 +3,8 @@
 
 This project showcases the development and automation of a Python ETL (Extract, Transform, Load) pipeline utilizing Apache Airflow, deployed on an Azure Virtual Machine. The primary objective of this pipeline is to seamlessly manage weather data extraction, transformation, and loading processes, ensuring data is readily available for further analysis or application use.
 
+![Tasks Chart](screenshots/chart-tasks.jpg)
+
 ## Key Components and Functionalities 🔧
 1. **Data Extraction 🌐**\
 The pipeline initiates by extracting real-time weather data from the Open Weather Map API. This involves setting up HTTP sensors and operators within Apache Airflow to periodically query the API and retrieve weather data in JSON format.
